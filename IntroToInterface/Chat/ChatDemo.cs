@@ -4,7 +4,7 @@
     {
         public static void Run()
         {
-            var server = new ChatServer();
+            var server = new OldChatServer();
 
             var client1 = new ChatClient("Per", server);
             var client2 = new ChatClient("Pål", server);
