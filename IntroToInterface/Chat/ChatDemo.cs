@@ -4,6 +4,7 @@
     {
         public static void Run()
         {
+            /*
             var server = new OldChatServer();
 
             var client1 = new ChatClient("Per", server);
@@ -18,6 +19,7 @@
 
             client3.Say("Hello");
             // Per og Pål får beskjed "Espen sier Hello"
+            */
         }
     }
 }

@@ -13,7 +13,9 @@
  */
 
 using IntroToInterface.Chat;
+using IntroToInterface.LineStats;
 using IntroToInterface.TextTools;
 
 //TextToolDemo.Run();
-ChatDemo.Run();
+//ChatDemo.Run();
+LineStatsDemo.Run();
